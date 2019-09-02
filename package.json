@@ -1,0 +1,19 @@
+{
+  "name": "@gregbrimble/package-registry-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregBrimble/package-registry-test.git"
+  },
+  "author": "Greg Brimble",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GregBrimble/package-registry-test/issues"
+  },
+  "homepage": "https://github.com/GregBrimble/package-registry-test#readme"
+}
